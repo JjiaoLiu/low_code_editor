@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "target": "es2017",
+    "resolveJsonModule": true,
+    "moduleResolution": "node",
+    "jsx": "preserve",
+  }
+}

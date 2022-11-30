@@ -1,0 +1,14 @@
+{
+  "name": "@lcd1024/image",
+  "version": "0.0.2",
+  "description": "",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
